@@ -1,0 +1,32 @@
+header{
+
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20%;
+    font-weight: bold;
+    justify-content:center;
+    align-items: center;
+
+}
+
+nav{
+    background: linear-gradient(rgb(38, 196, 207), rgb(96, 202, 25));
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+    
+}
+
+footer{
+    background: linear-gradient(red, rgb(224, 187, 187));
+    border-radius: 20%;
+    text-align: center;
+}
+
+img{
+    border-radius: 45%;
+    margin: 10px;
+}
